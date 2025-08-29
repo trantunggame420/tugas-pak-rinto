@@ -1,21 +1,21 @@
-Monitor Tugas
+📌 Monitor Tugas
 
 Monitor Tugas adalah aplikasi sederhana untuk membantu mencatat, memantau, dan mengelola daftar tugas agar lebih produktif.
 Proyek ini ditujukan untuk mempermudah pengguna dalam mengatur deadline, status tugas, serta memberikan tampilan yang lebih terstruktur.
 
-Fitur Utama
+🚀 Fitur Utama
 
-Tambah, edit, dan hapus tugas
+✍️ Tambah, edit, dan hapus tugas
 
-Tandai tugas sebagai selesai atau belum
+✅ Tandai tugas sebagai selesai atau belum
 
-Kelola deadline setiap tugas
+📅 Kelola deadline setiap tugas
 
-Filter tugas berdasarkan status (selesai/belum)
+🔍 Filter tugas berdasarkan status (selesai/belum)
 
-(Opsional) Statistik jumlah tugas
+📊 (Opsional) Statistik jumlah tugas
 
-Teknologi yang Digunakan
+🛠️ Teknologi yang Digunakan
 
 Frontend: HTML, CSS, JavaScript (atau React jika pakai framework)
 
