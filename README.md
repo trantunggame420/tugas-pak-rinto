@@ -1,24 +1,31 @@
-📌 Monitor Tugas
+# 🚀 Task Monitor
 
-Monitor Tugas adalah aplikasi sederhana untuk membantu mencatat, memantau, dan mengelola daftar tugas agar lebih produktif.
-Proyek ini ditujukan untuk mempermudah pengguna dalam mengatur deadline, status tugas, serta memberikan tampilan yang lebih terstruktur.
+Aplikasi web untuk memantau dan mengelola tugas/task secara real-time. Dibangun dengan teknologi modern untuk membantu produktivitas dan manajemen waktu.
 
-🚀 Fitur Utama
+## ✨ Fitur
 
-✍️ Tambah, edit, dan hapus tugas
+- 📝 **Manajemen Tugas** - Tambah, edit, hapus, dan kategorikan tugas
+- 🔔 **Notifikasi** - Pengingat deadline tugas
+- 📊 **Dashboard** - Statistik dan progress tugas
+- 👥 **Kolaborasi** - Berbagi tugas dengan tim
+- 📱 **Responsif** - Akses dari desktop dan mobile
+- 🌙 **Dark Mode** - Tema gelap dan terang
 
-✅ Tandai tugas sebagai selesai atau belum
+## 🛠 Teknologi
 
-📅 Kelola deadline setiap tugas
+**Frontend:**
+- React.js / Vue.js
+- Tailwind CSS
+- Chart.js untuk visualisasi
 
-🔍 Filter tugas berdasarkan status (selesai/belum)
+**Backend:**
+- Node.js dengan Express
+- MongoDB / PostgreSQL
+- JWT Authentication
 
-📊 (Opsional) Statistik jumlah tugas
+## 🚀 Instalasi
 
-🛠️ Teknologi yang Digunakan
-
-Frontend: HTML, CSS, JavaScript (atau React jika pakai framework)
-
-Backend: Node.js / Express (opsional jika ada server)
-
-Database: MongoDB / SQLite / JSON (sesuaikan dengan projectmu)
+1. **Clone repository**
+```bash
+git clone https://github.com/username/task-monitor.git
+cd task-monitor
